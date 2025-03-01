@@ -36,6 +36,5 @@
 #exclude Folder
 Library/
 Logs/
-ProjectSettings/
 Temp/
 UserSettings/
