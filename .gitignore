@@ -38,3 +38,6 @@ Library/
 Logs/
 Temp/
 UserSettings/
+
+#meta Files
+*.meta
