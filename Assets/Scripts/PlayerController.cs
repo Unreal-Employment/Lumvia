@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
 {           
     public Rigidbody2D rb;
 
+    int xDir = 5;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -21,7 +23,11 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(-5,0); 
         }
         if(Input.GetKey(KeyCode.D)){
-            rb.linearVelocity = new Vector2(5,0); 
+            rb.linearVelocity = new Vector2(xDir,0); 
+        }
+
+        if(Input.GetKeyDown(KeyCode.Space)){
+            rb.linearVelocity= new Vector2(rb.linearVelocity.x, 10f);
         }
     }
 }
