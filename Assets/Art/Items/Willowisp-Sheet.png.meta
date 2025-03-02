@@ -249,6 +249,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -1409,7 +1422,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Willowisp-Sheet_0: -126964479680067839
+      Willowisp-Sheet_1: 188297154698136823
+      Willowisp-Sheet_10: 2978844861776832760
+      Willowisp-Sheet_11: -8894423923780824413
+      Willowisp-Sheet_12: -6929941466240911166
+      Willowisp-Sheet_13: 8803194949895036167
+      Willowisp-Sheet_14: -5057033564216830432
+      Willowisp-Sheet_15: -7395375718499155800
+      Willowisp-Sheet_16: -8883579996041231643
+      Willowisp-Sheet_17: -4659112059985805686
+      Willowisp-Sheet_18: 2980340844214283415
+      Willowisp-Sheet_19: 6812559863457771668
+      Willowisp-Sheet_2: 1420655323394639540
+      Willowisp-Sheet_20: -3904309925039465722
+      Willowisp-Sheet_21: -2211407016689905647
+      Willowisp-Sheet_22: 2251912687745795869
+      Willowisp-Sheet_23: -4931497884003621335
+      Willowisp-Sheet_24: -6912668414107153775
+      Willowisp-Sheet_25: -7893688169899387665
+      Willowisp-Sheet_26: 2242594607338438638
+      Willowisp-Sheet_27: 6237420864902602967
+      Willowisp-Sheet_28: -733451620246058060
+      Willowisp-Sheet_29: -5895425187794243449
+      Willowisp-Sheet_3: -8334574088472146121
+      Willowisp-Sheet_30: -517033625284235622
+      Willowisp-Sheet_31: -2128813071269703263
+      Willowisp-Sheet_32: -2442812466134113489
+      Willowisp-Sheet_33: -4299821536301272560
+      Willowisp-Sheet_34: -3192835518873924702
+      Willowisp-Sheet_35: -8145461549992248840
+      Willowisp-Sheet_36: -693293115822341623
+      Willowisp-Sheet_37: -3597201480614471730
+      Willowisp-Sheet_38: 1247757069640861432
+      Willowisp-Sheet_39: 427707069327694746
+      Willowisp-Sheet_4: -5395642218612208387
+      Willowisp-Sheet_40: -8584214364785256283
+      Willowisp-Sheet_41: 8500494116291793013
+      Willowisp-Sheet_42: 5094190084473482952
+      Willowisp-Sheet_43: -2498049100264482796
+      Willowisp-Sheet_44: 4085118646809928231
+      Willowisp-Sheet_45: -75704908747360899
+      Willowisp-Sheet_46: -4530182436901479810
+      Willowisp-Sheet_47: 2047816060919262459
+      Willowisp-Sheet_48: 4287604803191962251
+      Willowisp-Sheet_49: 4426207900243341878
+      Willowisp-Sheet_5: -7388406247218557851
+      Willowisp-Sheet_50: -402890753651100689
+      Willowisp-Sheet_51: 8640481040567516964
+      Willowisp-Sheet_6: 6570995482181529420
+      Willowisp-Sheet_7: 4606352962541549171
+      Willowisp-Sheet_8: -1739617969966297657
+      Willowisp-Sheet_9: 1634875685314263479
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

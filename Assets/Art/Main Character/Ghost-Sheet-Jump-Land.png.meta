@@ -138,6 +138,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -484,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost-Sheet-Jump-Land_0: 3458823633775047908
+      Ghost-Sheet-Jump-Land_1: -6974359558908820152
+      Ghost-Sheet-Jump-Land_10: 8350088503547268904
+      Ghost-Sheet-Jump-Land_11: 3823165440223185625
+      Ghost-Sheet-Jump-Land_12: 2305320463858103368
+      Ghost-Sheet-Jump-Land_13: 4265943855199128947
+      Ghost-Sheet-Jump-Land_14: -305145055699322779
+      Ghost-Sheet-Jump-Land_2: 5552793397504795832
+      Ghost-Sheet-Jump-Land_3: 2800066949169289207
+      Ghost-Sheet-Jump-Land_4: -5385313314434821756
+      Ghost-Sheet-Jump-Land_5: -4229621851951513033
+      Ghost-Sheet-Jump-Land_6: -4544134477430434952
+      Ghost-Sheet-Jump-Land_7: 3849047772441803387
+      Ghost-Sheet-Jump-Land_8: 8971748034031113702
+      Ghost-Sheet-Jump-Land_9: -8849820361211673920
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
