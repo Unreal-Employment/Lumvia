@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: dec14504e4f52524d9d7aab0449782c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1526926600004301710
+    second: Ghost-Shee-Deatht_0
+  - first:
+      213: 2496558050673222869
+    second: Ghost-Shee-Deatht_1
+  - first:
+      213: 7345778862262022253
+    second: Ghost-Shee-Deatht_2
+  - first:
+      213: -5469427533157906548
+    second: Ghost-Shee-Deatht_3
+  - first:
+      213: 2732985013993532988
+    second: Ghost-Shee-Deatht_4
+  - first:
+      213: 1081792004171518975
+    second: Ghost-Shee-Deatht_5
+  - first:
+      213: 8117493649165838825
+    second: Ghost-Shee-Deatht_6
+  - first:
+      213: 8268125093774244249
+    second: Ghost-Shee-Deatht_7
+  - first:
+      213: -1006233159141726628
+    second: Ghost-Shee-Deatht_8
+  - first:
+      213: -6252864213162151670
+    second: Ghost-Shee-Deatht_9
+  - first:
+      213: 3836089671141187467
+    second: Ghost-Shee-Deatht_10
+  - first:
+      213: -3294377267559719170
+    second: Ghost-Shee-Deatht_11
+  - first:
+      213: -4822252504732702736
+    second: Ghost-Shee-Deatht_12
+  - first:
+      213: -7408073063814813454
+    second: Ghost-Shee-Deatht_13
+  - first:
+      213: 7423022047254460674
+    second: Ghost-Shee-Deatht_14
+  - first:
+      213: -6231482648020391160
+    second: Ghost-Shee-Deatht_15
+  - first:
+      213: -5351539805668118936
+    second: Ghost-Shee-Deatht_16
+  - first:
+      213: -4838636119572794911
+    second: Ghost-Shee-Deatht_17
+  - first:
+      213: -3672732637677788312
+    second: Ghost-Shee-Deatht_18
+  - first:
+      213: 2682442926435013436
+    second: Ghost-Shee-Deatht_19
+  - first:
+      213: 7415846861204597914
+    second: Ghost-Shee-Deatht_20
+  - first:
+      213: 5931861341737154674
+    second: Ghost-Shee-Deatht_21
+  - first:
+      213: -6218831321152881868
+    second: Ghost-Shee-Deatht_22
+  - first:
+      213: 4227800835556195869
+    second: Ghost-Shee-Deatht_23
+  - first:
+      213: -7457524931597007343
+    second: Ghost-Shee-Deatht_24
+  - first:
+      213: 199186110704099008
+    second: Ghost-Shee-Deatht_25
+  - first:
+      213: -6659015307940048374
+    second: Ghost-Shee-Deatht_26
+  - first:
+      213: 1262625288870477494
+    second: Ghost-Shee-Deatht_27
+  - first:
+      213: 7015329111478105847
+    second: Ghost-Shee-Deatht_28
+  - first:
+      213: 3326263513689649003
+    second: Ghost-Shee-Deatht_29
+  - first:
+      213: -3037031515174045537
+    second: Ghost-Shee-Deatht_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 19
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c06a8e8544fcae0800000000000000
+      internalID: -1526926600004301710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_1
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4e48bd15e85a220800000000000000
+      internalID: 2496558050673222869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6073b3a4f271f560800000000000000
+      internalID: 7345778862262022253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87c16903a0b814b0800000000000000
+      internalID: -5469427533157906548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 139
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eec87e3638de520800000000000000
+      internalID: 2732985013993532988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35081a81c430f00800000000000000
+      internalID: 1081792004171518975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9e401377127a070800000000000000
+      internalID: 8117493649165838825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99938e467f74eb270800000000000000
+      internalID: 8268125093774244249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_8
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c566324e5442902f0800000000000000
+      internalID: -1006233159141726628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_9
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01b7b1902d5939a0800000000000000
+      internalID: -6252864213162151670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f5aee3b378c3530800000000000000
+      internalID: 3836089671141187467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_11
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe1bfa54550842d0800000000000000
+      internalID: -3294377267559719170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_12
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 149
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f76b2675eae31db0800000000000000
+      internalID: -4822252504732702736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8ad215ccc313990800000000000000
+      internalID: -7408073063814813454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209be7e193fd30760800000000000000
+      internalID: 7423022047254460674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 19
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bebb42c835589a0800000000000000
+      internalID: -6231482648020391160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 19
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ee9c186e28bb5b0800000000000000
+      internalID: -5351539805668118936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13d7fd516b9dcb0800000000000000
+      internalID: -4838636119572794911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_18
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 19
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8636b300025d70dc0800000000000000
+      internalID: -3672732637677788312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c331b6021a3f93520800000000000000
+      internalID: 2682442926435013436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_20
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 19
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cabceed616ae660800000000000000
+      internalID: 7415846861204597914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_21
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2787d134674325250800000000000000
+      internalID: 5931861341737154674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_22
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bfb98bcd542b9a0800000000000000
+      internalID: -6218831321152881868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_23
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e3d68c57a2caa30800000000000000
+      internalID: 4227800835556195869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_24
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 9
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1168a8c169c818890800000000000000
+      internalID: -7457524931597007343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_25
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce95bc56b6a3c200800000000000000
+      internalID: 199186110704099008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_26
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 109
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a025850cbdc6693a0800000000000000
+      internalID: -6659015307940048374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 99
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bebc83b20fb58110800000000000000
+      internalID: 1262625288870477494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_28
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 109
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6fb1878a47b5160800000000000000
+      internalID: 7015329111478105847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_29
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 132
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f60dada03492e20800000000000000
+      internalID: 3326263513689649003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Shee-Deatht_30
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 0
+        width: 471
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9872668deb4ad5d0800000000000000
+      internalID: -3037031515174045537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
