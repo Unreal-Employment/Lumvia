@@ -24,14 +24,14 @@ public class PlayerController : MonoBehaviour
 
         if(hDirection > 0){
             rb.linearVelocity = new Vector2(xDir,0);
-            transform.localScale = new Vector2(1,1);
+            transform.localScale = new Vector2(1,1); //Sprite schaut nach rechts
             anim.SetBool("running", true); 
         }
         else if(hDirection < 0){
 
         
             rb.linearVelocity = new Vector2(-5,0); 
-            transform.localScale = new Vector2(-1,1);
+            transform.localScale = new Vector2(-1,1); //Sprite schaut nach links
             anim.SetBool("running", true);
         }
         else{
