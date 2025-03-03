@@ -21,9 +21,11 @@ public class PlayerController : MonoBehaviour
         
         if(Input.GetKey(KeyCode.A)){
             rb.linearVelocity = new Vector2(-5,0); 
+            transform.localScale = new Vector2(-1,1);
         }
         if(Input.GetKey(KeyCode.D)){
-            rb.linearVelocity = new Vector2(xDir,0); 
+            rb.linearVelocity = new Vector2(xDir,0);
+            transform.localScale = new Vector2(1,1); 
         }
 
         if(Input.GetKeyDown(KeyCode.Space)){
