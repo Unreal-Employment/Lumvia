@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: e071cc6ce979e8b4aa2445c0e736017a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1757077142278097280
+    second: Ghost-Sheet-Idle-With-Blink_0
+  - first:
+      213: 6638232675908361956
+    second: Ghost-Sheet-Idle-With-Blink_1
+  - first:
+      213: -3505782651284335092
+    second: Ghost-Sheet-Idle-With-Blink_2
+  - first:
+      213: 294781419802724956
+    second: Ghost-Sheet-Idle-With-Blink_3
+  - first:
+      213: -1486746245536073427
+    second: Ghost-Sheet-Idle-With-Blink_4
+  - first:
+      213: 7435836123582490582
+    second: Ghost-Sheet-Idle-With-Blink_5
+  - first:
+      213: -1260760454061441051
+    second: Ghost-Sheet-Idle-With-Blink_6
+  - first:
+      213: -7812764141325151182
+    second: Ghost-Sheet-Idle-With-Blink_7
+  - first:
+      213: -8519245942271790004
+    second: Ghost-Sheet-Idle-With-Blink_8
+  - first:
+      213: 599710546162074831
+    second: Ghost-Sheet-Idle-With-Blink_9
+  - first:
+      213: -8784215879186632748
+    second: Ghost-Sheet-Idle-With-Blink_10
+  - first:
+      213: 310874836406912654
+    second: Ghost-Sheet-Idle-With-Blink_11
+  - first:
+      213: 4794938188445961285
+    second: Ghost-Sheet-Idle-With-Blink_12
+  - first:
+      213: -5446657245357533508
+    second: Ghost-Sheet-Idle-With-Blink_13
+  - first:
+      213: -4932459654450517010
+    second: Ghost-Sheet-Idle-With-Blink_14
+  - first:
+      213: -1170830600007784285
+    second: Ghost-Sheet-Idle-With-Blink_15
+  - first:
+      213: -5434440874482563455
+    second: Ghost-Sheet-Idle-With-Blink_16
+  - first:
+      213: 9128329167100658191
+    second: Ghost-Sheet-Idle-With-Blink_17
+  - first:
+      213: -1704922290057677164
+    second: Ghost-Sheet-Idle-With-Blink_18
+  - first:
+      213: -5932839621065883474
+    second: Ghost-Sheet-Idle-With-Blink_19
+  - first:
+      213: -2031274417415769857
+    second: Ghost-Sheet-Idle-With-Blink_20
+  - first:
+      213: 8725451306651834548
+    second: Ghost-Sheet-Idle-With-Blink_21
+  - first:
+      213: 9174617614539563132
+    second: Ghost-Sheet-Idle-With-Blink_22
+  - first:
+      213: -720992095457093867
+    second: Ghost-Sheet-Idle-With-Blink_23
+  - first:
+      213: 8355479623503360979
+    second: Ghost-Sheet-Idle-With-Blink_24
+  - first:
+      213: 7238384970570075509
+    second: Ghost-Sheet-Idle-With-Blink_25
+  - first:
+      213: -1811377548241631981
+    second: Ghost-Sheet-Idle-With-Blink_26
+  - first:
+      213: -3778969630241189549
+    second: Ghost-Sheet-Idle-With-Blink_27
+  - first:
+      213: -2015294762710377775
+    second: Ghost-Sheet-Idle-With-Blink_28
+  - first:
+      213: 3488587761641792642
+    second: Ghost-Sheet-Idle-With-Blink_29
+  - first:
+      213: 1102860403919374943
+    second: Ghost-Sheet-Idle-With-Blink_30
+  - first:
+      213: -8253272897045459751
+    second: Ghost-Sheet-Idle-With-Blink_31
+  - first:
+      213: -5681907870292341235
+    second: Ghost-Sheet-Idle-With-Blink_32
+  - first:
+      213: 8772070498783292953
+    second: Ghost-Sheet-Idle-With-Blink_33
+  - first:
+      213: -3648315351397870641
+    second: Ghost-Sheet-Idle-With-Blink_34
+  - first:
+      213: 8979368712944297639
+    second: Ghost-Sheet-Idle-With-Blink_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089c17cf954626810800000000000000
+      internalID: 1757077142278097280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee98e7a27dbf1c50800000000000000
+      internalID: 6638232675908361956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_2
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06587ac045f85fc0800000000000000
+      internalID: -3505782651284335092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0ab5b326471400800000000000000
+      internalID: 294781419802724956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d293da3ba240e5be0800000000000000
+      internalID: -1486746245536073427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_5
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e622ce85613760800000000000000
+      internalID: 7435836123582490582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_6
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efbeccfb01e08ee0800000000000000
+      internalID: -1260760454061441051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_7
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2349762486c739390800000000000000
+      internalID: -7812764141325151182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_8
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44b3b0d3fe85c980800000000000000
+      internalID: -8519245942271790004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_9
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4cb087099925800800000000000000
+      internalID: 599710546162074831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_10
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df2cbad232381680800000000000000
+      internalID: -8784215879186632748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_11
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8644a14403705400800000000000000
+      internalID: 310874836406912654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_12
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cc642b0ea0b8240800000000000000
+      internalID: 4794938188445961285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_13
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6182dc7169964b0800000000000000
+      internalID: -5446657245357533508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_14
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe78bd3126c8bb0800000000000000
+      internalID: -4932459654450517010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_15
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8e06ac5cf50cfe0800000000000000
+      internalID: -1170830600007784285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_16
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1868a9b41dcf494b0800000000000000
+      internalID: -5434440874482563455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_17
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f024fd573075eae70800000000000000
+      internalID: 9128329167100658191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_18
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967773d536e658e0800000000000000
+      internalID: -1704922290057677164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_19
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea041055cc15aada0800000000000000
+      internalID: -5932839621065883474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_20
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03894fda67fc3e0800000000000000
+      internalID: -2031274417415769857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_21
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b853f5ebb7071970800000000000000
+      internalID: 8725451306651834548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_22
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c702ca87c1ac25f70800000000000000
+      internalID: 9174617614539563132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_23
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175a6852858ef5f0800000000000000
+      internalID: -720992095457093867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_24
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3bee6c270a4f370800000000000000
+      internalID: 8355479623503360979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_25
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d0b56b7c8e37460800000000000000
+      internalID: 7238384970570075509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_26
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31580fa87b1bcd6e0800000000000000
+      internalID: -1811377548241631981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_27
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511c74a4276e8bc0800000000000000
+      internalID: -3778969630241189549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_28
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da51fe371c3804e0800000000000000
+      internalID: -2015294762710377775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_29
+      rect:
+        serializedVersion: 2
+        x: 4669
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2842f6cf514f96030800000000000000
+      internalID: 3488587761641792642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_30
+      rect:
+        serializedVersion: 2
+        x: 4829
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a4574b1b52e4f00800000000000000
+      internalID: 1102860403919374943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_31
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc0f31270c767d80800000000000000
+      internalID: -8253272897045459751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_32
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 19
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e8ab065eec521b0800000000000000
+      internalID: -5681907870292341235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_33
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e69a864a7acb970800000000000000
+      internalID: 8772070498783292953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_34
+      rect:
+        serializedVersion: 2
+        x: 5469
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3535b74849e5dc0800000000000000
+      internalID: -3648315351397870641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ghost-Sheet-Idle-With-Blink_35
+      rect:
+        serializedVersion: 2
+        x: 5629
+        y: 9
+        width: 102
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a62d4a05402d9c70800000000000000
+      internalID: 8979368712944297639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ghost-Sheet-Idle-With-Blink_0: 1757077142278097280
+      Ghost-Sheet-Idle-With-Blink_1: 6638232675908361956
+      Ghost-Sheet-Idle-With-Blink_10: -8784215879186632748
+      Ghost-Sheet-Idle-With-Blink_11: 310874836406912654
+      Ghost-Sheet-Idle-With-Blink_12: 4794938188445961285
+      Ghost-Sheet-Idle-With-Blink_13: -5446657245357533508
+      Ghost-Sheet-Idle-With-Blink_14: -4932459654450517010
+      Ghost-Sheet-Idle-With-Blink_15: -1170830600007784285
+      Ghost-Sheet-Idle-With-Blink_16: -5434440874482563455
+      Ghost-Sheet-Idle-With-Blink_17: 9128329167100658191
+      Ghost-Sheet-Idle-With-Blink_18: -1704922290057677164
+      Ghost-Sheet-Idle-With-Blink_19: -5932839621065883474
+      Ghost-Sheet-Idle-With-Blink_2: -3505782651284335092
+      Ghost-Sheet-Idle-With-Blink_20: -2031274417415769857
+      Ghost-Sheet-Idle-With-Blink_21: 8725451306651834548
+      Ghost-Sheet-Idle-With-Blink_22: 9174617614539563132
+      Ghost-Sheet-Idle-With-Blink_23: -720992095457093867
+      Ghost-Sheet-Idle-With-Blink_24: 8355479623503360979
+      Ghost-Sheet-Idle-With-Blink_25: 7238384970570075509
+      Ghost-Sheet-Idle-With-Blink_26: -1811377548241631981
+      Ghost-Sheet-Idle-With-Blink_27: -3778969630241189549
+      Ghost-Sheet-Idle-With-Blink_28: -2015294762710377775
+      Ghost-Sheet-Idle-With-Blink_29: 3488587761641792642
+      Ghost-Sheet-Idle-With-Blink_3: 294781419802724956
+      Ghost-Sheet-Idle-With-Blink_30: 1102860403919374943
+      Ghost-Sheet-Idle-With-Blink_31: -8253272897045459751
+      Ghost-Sheet-Idle-With-Blink_32: -5681907870292341235
+      Ghost-Sheet-Idle-With-Blink_33: 8772070498783292953
+      Ghost-Sheet-Idle-With-Blink_34: -3648315351397870641
+      Ghost-Sheet-Idle-With-Blink_35: 8979368712944297639
+      Ghost-Sheet-Idle-With-Blink_4: -1486746245536073427
+      Ghost-Sheet-Idle-With-Blink_5: 7435836123582490582
+      Ghost-Sheet-Idle-With-Blink_6: -1260760454061441051
+      Ghost-Sheet-Idle-With-Blink_7: -7812764141325151182
+      Ghost-Sheet-Idle-With-Blink_8: -8519245942271790004
+      Ghost-Sheet-Idle-With-Blink_9: 599710546162074831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
