@@ -132,11 +132,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 29
-        y: 19
+        y: 0
         width: 102
-        height: 122
+        height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -154,11 +154,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 189
-        y: 19
+        y: 0
         width: 102
-        height: 122
+        height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,11 +176,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 349
-        y: 19
+        y: 0
         width: 102
-        height: 122
+        height: 141
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -198,11 +198,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 509
-        y: 9
+        y: 0
         width: 102
-        height: 122
+        height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,11 +220,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 669
-        y: 9
+        y: 0
         width: 102
-        height: 122
+        height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -242,11 +242,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 829
-        y: 9
+        y: 0
         width: 102
-        height: 122
+        height: 131
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,7 +263,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 681fa98139cd62848962cfd7e86bb7a4
     internalID: 0
     vertices: []
     indices: 
@@ -279,6 +279,7 @@ TextureImporter:
       Ghost-Sheet-Blink_3: -676272177721450170
       Ghost-Sheet-Blink_4: -575837102789013356
       Ghost-Sheet-Blink_5: -1369716169718858924
+      Ghost-Sheet-Blink_6: -1919999934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
