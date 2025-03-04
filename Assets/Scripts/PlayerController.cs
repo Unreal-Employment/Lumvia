@@ -6,12 +6,9 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {           
     private Rigidbody2D rb;
-
     private Animator anim;
-
     private enum State {idle, run, jump}; //Set a INT to idle, run and jump
-
-    private State state = state.idle;
+    private State state = State.idle;
 
     int xDir = 5;
 
