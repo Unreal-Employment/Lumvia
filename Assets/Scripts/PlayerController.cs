@@ -9,6 +9,10 @@ public class PlayerController : MonoBehaviour
 
     private Animator anim;
 
+    private enum State {idle, run, jump}; //Set a INT to idle, run and jump
+
+    private State state = state.idle;
+
     int xDir = 5;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
