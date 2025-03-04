@@ -117,19 +117,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -137,20 +124,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 19
-        width: 102
-        height: 122
+        x: 0
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 98041ac9787ca5260800000000000000
-      internalID: 7087196348883222665
+      spriteID: b9e363badc6e1b147925544c3bd332db
+      internalID: 1647965674
       vertices: []
       indices: 
       edges: []
@@ -159,20 +146,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_1
       rect:
         serializedVersion: 2
-        x: 179
-        y: 9
-        width: 122
-        height: 122
+        x: 160
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d7efe6ac13429fa40800000000000000
-      internalID: 5402389024275889789
+      spriteID: 3d74e0e558295d746aa96b34761b13b2
+      internalID: 1658970587
       vertices: []
       indices: 
       edges: []
@@ -181,20 +168,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_2
       rect:
         serializedVersion: 2
-        x: 339
-        y: 9
-        width: 122
-        height: 122
+        x: 320
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cf35af5b97a972bd0800000000000000
-      internalID: -2654983607776816132
+      spriteID: d8af1058886d1a9498023945ce60e2a4
+      internalID: -1258153544
       vertices: []
       indices: 
       edges: []
@@ -203,20 +190,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_3
       rect:
         serializedVersion: 2
-        x: 509
-        y: 19
-        width: 102
-        height: 132
+        x: 480
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 69f432b34b695d140800000000000000
-      internalID: 4743863483335135126
+      spriteID: 634611fa2ca1a5e48b62b8b67a39820e
+      internalID: -1097056573
       vertices: []
       indices: 
       edges: []
@@ -225,20 +212,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_4
       rect:
         serializedVersion: 2
-        x: 669
-        y: 19
-        width: 102
-        height: 132
+        x: 640
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9dd5dc21de7175e50800000000000000
-      internalID: 6797928469529189849
+      spriteID: ce5bce5fbb19eae46a961ae89c115b59
+      internalID: 151096528
       vertices: []
       indices: 
       edges: []
@@ -247,20 +234,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_5
       rect:
         serializedVersion: 2
-        x: 829
-        y: 9
-        width: 102
-        height: 142
+        x: 800
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a8ed3d27d47632900800000000000000
-      internalID: 658483552862854794
+      spriteID: 022710d9248f94b49821788105ba35d1
+      internalID: 897419399
       vertices: []
       indices: 
       edges: []
@@ -269,20 +256,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_6
       rect:
         serializedVersion: 2
-        x: 989
+        x: 960
         y: 0
-        width: 102
-        height: 151
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1e1cfdd9cecebf1a0800000000000000
-      internalID: -6774560713443655199
+      spriteID: 7e82a2567482cdb47a85dadaa105b92a
+      internalID: -817243531
       vertices: []
       indices: 
       edges: []
@@ -291,20 +278,20 @@ TextureImporter:
       name: Ghost-Sheet-Jump_7
       rect:
         serializedVersion: 2
-        x: 1149
-        y: 9
-        width: 102
-        height: 142
+        x: 1120
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc175f01a05fe9ad0800000000000000
-      internalID: -2693446103537978931
+      spriteID: c1ac24325b8c14d4ba882406dab8369e
+      internalID: -635983877
       vertices: []
       indices: 
       edges: []
@@ -313,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ed30de116595aa8429d5a05c264ae74e
     internalID: 0
     vertices: []
     indices: 
@@ -323,14 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ghost-Sheet-Jump_0: 7087196348883222665
-      Ghost-Sheet-Jump_1: 5402389024275889789
-      Ghost-Sheet-Jump_2: -2654983607776816132
-      Ghost-Sheet-Jump_3: 4743863483335135126
-      Ghost-Sheet-Jump_4: 6797928469529189849
-      Ghost-Sheet-Jump_5: 658483552862854794
-      Ghost-Sheet-Jump_6: -6774560713443655199
-      Ghost-Sheet-Jump_7: -2693446103537978931
+      Ghost-Sheet-Jump_0: 1647965674
+      Ghost-Sheet-Jump_1: 1658970587
+      Ghost-Sheet-Jump_2: -1258153544
+      Ghost-Sheet-Jump_3: -1097056573
+      Ghost-Sheet-Jump_4: 151096528
+      Ghost-Sheet-Jump_5: 897419399
+      Ghost-Sheet-Jump_6: -817243531
+      Ghost-Sheet-Jump_7: -635983877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

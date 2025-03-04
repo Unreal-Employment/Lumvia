@@ -105,19 +105,6 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -125,20 +112,20 @@ TextureImporter:
       name: Ghost-Sheet-Fast-Right_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 12
-        height: 14
+        x: 0
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08bb5756f8e3b2390800000000000000
-      internalID: -7842105540532126848
+      spriteID: 97e72f5e5f0ad06419bf88da5abac9a1
+      internalID: -848283224
       vertices: []
       indices: 
       edges: []
@@ -147,20 +134,20 @@ TextureImporter:
       name: Ghost-Sheet-Fast-Right_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 1
-        width: 12
-        height: 14
+        x: 160
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 75b1584cdcc7bce00800000000000000
-      internalID: 1066082960010451799
+      spriteID: f8764e9b5e798fa4b910a43afa38604c
+      internalID: -1558150434
       vertices: []
       indices: 
       edges: []
@@ -169,20 +156,20 @@ TextureImporter:
       name: Ghost-Sheet-Fast-Right_2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 1
-        width: 12
-        height: 14
+        x: 320
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ff49718af5d2466c0800000000000000
-      internalID: -4151143067663493889
+      spriteID: cdfa7464b1cbbb542898fa0436e93743
+      internalID: 961915350
       vertices: []
       indices: 
       edges: []
@@ -191,20 +178,20 @@ TextureImporter:
       name: Ghost-Sheet-Fast-Right_3
       rect:
         serializedVersion: 2
-        x: 50
-        y: 1
-        width: 12
-        height: 14
+        x: 480
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b10557660b04e4980800000000000000
-      internalID: -8552827515952607205
+      spriteID: 60322c319a5213e45bb2abee4cc37294
+      internalID: -2085907214
       vertices: []
       indices: 
       edges: []
@@ -213,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3d9fc86069fc0e44e83abd58649b016c
     internalID: 0
     vertices: []
     indices: 
@@ -223,10 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ghost-Sheet-Fast-Right_0: -7842105540532126848
-      Ghost-Sheet-Fast-Right_1: 1066082960010451799
-      Ghost-Sheet-Fast-Right_2: -4151143067663493889
-      Ghost-Sheet-Fast-Right_3: -8552827515952607205
+      Ghost-Sheet-Fast-Right_0: -848283224
+      Ghost-Sheet-Fast-Right_1: -1558150434
+      Ghost-Sheet-Fast-Right_2: 961915350
+      Ghost-Sheet-Fast-Right_3: -2085907214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

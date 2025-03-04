@@ -112,20 +112,20 @@ TextureImporter:
       name: Ghost-Sheet-Right_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 19
-        width: 102
-        height: 122
+        x: 0
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: aebef160f9b0e9e30800000000000000
-      internalID: 4512056654302276586
+      spriteID: d88ea9ee9cf9e494c8271cd0ad44489a
+      internalID: 363445926
       vertices: []
       indices: 
       edges: []
@@ -134,20 +134,20 @@ TextureImporter:
       name: Ghost-Sheet-Right_1
       rect:
         serializedVersion: 2
-        x: 189
-        y: 19
-        width: 102
-        height: 122
+        x: 160
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bc08fe61d05f2d020800000000000000
-      internalID: 2365222190891106507
+      spriteID: 415b3fe4c28e8c5448bb877dbe1ab89d
+      internalID: -1541110793
       vertices: []
       indices: 
       edges: []
@@ -156,20 +156,20 @@ TextureImporter:
       name: Ghost-Sheet-Right_2
       rect:
         serializedVersion: 2
-        x: 349
-        y: 19
-        width: 102
-        height: 122
+        x: 320
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 70f024ff41743ab70800000000000000
-      internalID: 8909042643376410375
+      spriteID: 7992e8e62e42e3f45a576f8278712017
+      internalID: 670320727
       vertices: []
       indices: 
       edges: []
@@ -178,20 +178,20 @@ TextureImporter:
       name: Ghost-Sheet-Right_3
       rect:
         serializedVersion: 2
-        x: 509
-        y: 19
-        width: 102
-        height: 122
+        x: 480
+        y: 0
+        width: 160
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 169658fe4a7058260800000000000000
-      internalID: 7099088792593983841
+      spriteID: d6a2749a77e3f2e4cb674604e5be54b0
+      internalID: 1136445260
       vertices: []
       indices: 
       edges: []
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 25538da8e8badf14bae56ba2fd12e24b
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Ghost-Sheet-Right_0: 4512056654302276586
-      Ghost-Sheet-Right_1: 2365222190891106507
-      Ghost-Sheet-Right_2: 8909042643376410375
-      Ghost-Sheet-Right_3: 7099088792593983841
+      Ghost-Sheet-Right_0: 363445926
+      Ghost-Sheet-Right_1: -1541110793
+      Ghost-Sheet-Right_2: 670320727
+      Ghost-Sheet-Right_3: 1136445260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
