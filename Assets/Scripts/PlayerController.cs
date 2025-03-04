@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {           
-    public Rigidbody2D rb;
+    private Rigidbody2D rb;
 
-    public Animator anim;
+    private Animator anim;
 
     int xDir = 5;
 
@@ -15,6 +15,9 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         
+        rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+
     }
 
     // Update is called once per frame
