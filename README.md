@@ -1,2 +1,2 @@
 # Lumvia
-A Game about a little Ghost who searches his way into the afterlive.
+A game about a little ghost who finds its way into the afterlife.
