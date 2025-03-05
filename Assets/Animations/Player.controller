@@ -145,7 +145,7 @@ AnimatorController:
     m_Type: 4
     m_DefaultFloat: 0
     m_DefaultInt: 0
-    m_DefaultBool: 0
+    m_DefaultBool: 1
     m_Controller: {fileID: 9100000}
   - m_Name: jumping
     m_Type: 4
@@ -155,7 +155,7 @@ AnimatorController:
     m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
-    m_Name: Base Layer
+    m_Name: running
     m_StateMachine: {fileID: 6347731426348907087}
     m_Mask: {fileID: 0}
     m_Motions: []
@@ -198,7 +198,7 @@ AnimatorStateMachine:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Base Layer
+  m_Name: running
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -5737998733318736759}
