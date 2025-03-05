@@ -7,8 +7,10 @@ public class PlayerController : MonoBehaviour
 {           
     private Rigidbody2D rb;
     private Animator anim;
-    private enum State {idle, run, jump}; //Set a INT to idle, run and jump
+    private enum State {idle, run, jump, falling}; //Set a INT to idle, run and jump
     private State state = State.idle;
+    private Collider2D coll;
+    [SerializeField] private LayerMask Ground;
 
     int xDir = 5;
 
@@ -18,7 +20,7 @@ public class PlayerController : MonoBehaviour
         
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
-
+        coll = GetComponent<Collider2D>();
     }
 
     // Update is called once per frame
@@ -29,21 +31,52 @@ public class PlayerController : MonoBehaviour
         if(hDirection > 0){
             rb.linearVelocity = new Vector2(xDir,0);
             transform.localScale = new Vector2(1,1); //sprite looks right
-            anim.SetBool("running", true); 
+             
         }
         else if(hDirection < 0){
 
         
             rb.linearVelocity = new Vector2(-5,0); 
             transform.localScale = new Vector2(-1,1); //sprite looks left
-            anim.SetBool("running", true);
+            
         }
         else{
-            anim.SetBool("running", false); 
+            
         }
         
-        if(Input.GetKeyDown(KeyCode.Space)){
+        if(Input.GetButtonDown("Jump") && coll.IsTouchingLayers(Ground)){
             rb.linearVelocity= new Vector2(rb.linearVelocity.x, 10f);
+            state = State.jump;
         }
+
+        VelocityState();
+        anim.SetInteger("State", (int)state);
+
     }
+
+    private void VelocityState(){
+
+            if(state == State.jump){
+
+                if(rb.linearVelocity.y < .1f){
+                    state = State.falling;
+                }
+            }   
+                else if(state == State.falling){
+                    if(coll.IsTouchingLayers(Ground)){
+                        state = State.idle;
+                    }
+                }
+            
+            else if(Mathf.Abs(rb.linearVelocity.x) > 2f){
+
+                state = State.run;
+            }
+            else{
+
+                state = State.idle;
+            }
+
+    }
+
 }
