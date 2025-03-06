@@ -26,18 +26,18 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float hDirection = Input.GetAxis("Horizontal");
+        float hDirection = Input.GetAxis("Horizontal"); 
 
         if(hDirection > 0){
             rb.linearVelocity = new Vector2(xDir,0);
-            transform.localScale = new Vector2(1,1); //sprite looks right
+            transform.localScale = new Vector2(1,1); //sprite facing right
              
         }
         else if(hDirection < 0){
 
         
             rb.linearVelocity = new Vector2(-5,0); 
-            transform.localScale = new Vector2(-1,1); //sprite looks left
+            transform.localScale = new Vector2(-1,1); //sprite facing left
             
         }
         else{
