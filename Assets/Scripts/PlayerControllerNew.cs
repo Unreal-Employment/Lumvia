@@ -13,7 +13,11 @@ public class PlayerControllerNew : MonoBehaviour
     private float minWalkSpeedX = .25f;
     private float walkAccelarationX = .014f;
     private float currentSpeedX;
-    private float maxWalkSpeedX = 10.5f;
+    private float maxWalkSpeedX = 5.5f;
+    private float releaseDecelerationX = .25f;
+    private float skidDecelerationX = .5f;
+    private float skidTurnaroundX = 3.5f;
+
 
     private bool isChangingDirection;
 
@@ -46,24 +50,47 @@ public class PlayerControllerNew : MonoBehaviour
 
             }else if(currentSpeedX < maxWalkSpeedX){ //player is moving but less than their max walk speed-up
 
-                currentSpeedX = IncreaseWithinBound(currentSpeedX, walkAccelarationX, maxWalkSpeedX); //keep at max speed
+                currentSpeedX = IncreaseWithinBound(currentSpeedX, walkAccelarationX, maxWalkSpeedX); //accelerate, then keep at max speed
 
             }
+        }else if(currentSpeedX > 0){
+
+            currentSpeedX = DecreaseWithinBound(currentSpeedX, releaseDecelerationX, 0);
+
         }
 
         isChangingDirection = currentSpeedX > 0 && faceDirectionX * moveDirectionX < 0; //if player is moving + in negative direction
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+       if (isChangingDirection)
+        {
+            if (currentSpeedX > skidTurnaroundX)
+            {
+                moveDirectionX = -moveDirectionX;  // instead of -faceDirectionX (avoids 0-problem)
+                currentSpeedX = DecreaseWithinBound(currentSpeedX, skidDecelerationX, 0);
+                Debug.Log("Richtungswechsel: Geschwindigkeit wird abgebremst. currentSpeedX: " + currentSpeedX);
+            }else
+            {
+                moveDirectionX = faceDirectionX;
+                currentSpeedX = minWalkSpeedX;  // 🚀 instant reset to min-speed after turnaround
+                Debug.Log("Richtungswechsel: Geschwindigkeit wird auf minWalkSpeedX gesetzt. currentSpeedX: " + currentSpeedX);
+            }
+        }
+        else
+        {
+            if (faceDirectionX != 0)
+            {
+                moveDirectionX = faceDirectionX;
+            }
 
-        if(isChangingDirection){
-
-            moveDirectionX = -faceDirectionX;
-
-        }else{
-
-            moveDirectionX = faceDirectionX;
-
+            // 🚀 instant turnaroundif we stand still an change direction
+            if (currentSpeedX < minWalkSpeedX) 
+            {
+                moveDirectionX = minWalkSpeedX;  
+                Debug.Log("Aktualisierung: Geschwindigkeit auf minWalkSpeedX gesetzt. currentSpeedX: " + currentSpeedX);
+            }
         }
 
-        rb.linearVelocity = new Vector2(moveDirectionX * currentSpeedX, rb.linearVelocity.y);
+         rb.linearVelocity = new Vector2(moveDirectionX * currentSpeedX, rb.linearVelocity.y);
 
         if(faceDirectionX > 0){
 
@@ -78,17 +105,30 @@ public class PlayerControllerNew : MonoBehaviour
 
     }
 
-    float IncreaseWithinBound(float val, float delta, float maxval){
+    float IncreaseWithinBound(float val, float delta, float maxVal){
 
         val += delta; //speed increases
 
-        if(val > maxval){ //speed limit
+        if(val > maxVal){ //speed limit
 
-            val = maxval;
+            val = maxVal;
 
         }
 
         return val;
+    }
+
+    float DecreaseWithinBound(float val, float delta, float minVal = 0){
+
+        val -= delta * 1.5f; //decrease speed more heavily to make it fluid
+        if(val < minVal){ //speed limit
+
+            val = minVal;
+
+        }
+
+        return val;
+
     }
 
     /*private void VelocityState(){
