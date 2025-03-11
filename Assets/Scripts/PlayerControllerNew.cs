@@ -1,3 +1,4 @@
+using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Callbacks;
 using UnityEngine;
@@ -7,8 +8,8 @@ public class PlayerControllerNew : MonoBehaviour
 {           
     private Rigidbody2D rb;
 
-    //public LayerMask GroundLayers;
-    //private Transform groundCheck1, groundCheck2;
+    public LayerMask GroundLayers;
+    private Transform groundCheck1, groundCheck2;
     private float faceDirX; //direction player is facing
     public float moveDirX; //direction of movement input
     private float currentSpdX;
@@ -19,59 +20,77 @@ public class PlayerControllerNew : MonoBehaviour
     private float skidDecelX = .5f;
     private float skidTurnX = 4f;
     private bool isChangingDirection;
-
-    //private bool isGrounded,isJumping,jumpHeld,jumpRelease;
-    //[SerializeField] private int Collectible = 0;
-    //[SerializeField] private Text CollectibleText;
-    //[SerializeField] private float jumpSpdY;
-    /*
+    public bool isGrounded,isJumping,jumpHeld,jumpRelease;
+    [SerializeField] private int Collectible = 0;
+    [SerializeField] private Text CollectibleText;
+    [SerializeField] private float jumpSpdY;
+    
     private Animator anim;
-    private enum State {idle, run, jump, falling}; //Set a INT to idle, run and jump
-    private State state = State.idle;
+    //private enum State {idle, run, jump, falling}; //Set a INT to idle, run and jump
+    //private State state = State.idle;
     private Collider2D coll;
-    [SerializeField] private LayerMask Ground; */
+    //[SerializeField] private LayerMask Ground;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start(){ 
         rb = GetComponent<Rigidbody2D>();
-        //groundCheck1 = transform.Find("groundCheck1");
-        //groundCheck2 = transform.Find("groundCheck2");
+        groundCheck1 = transform.Find("groundCheck1");
+        groundCheck2 = transform.Find("groundCheck2");
         //normalGravity = rb.gravityScale;
         //anim = GetComponent<Animator>();
         //coll = GetComponent<Collider2D>();
     }
 
-   /* void setJumpParams(){
-        jumpSpdY = 15f;
-    }*/
+    void setJumpParams(){
+        jumpSpdY = 6f;
+    }
     // Update is called once per frame
     void Update(){
         Debug.Log("Current Speed:"+currentSpdX);
         float faceDirX = Input.GetAxisRaw("Horizontal");
-    //    isGrounded = Physics2D.OverlapPoint(groundCheck1.position,GroundLayers) || Physics2D.OverlapPoint(groundCheck2.position,GroundLayers);
+        isGrounded = Physics2D.OverlapPoint(groundCheck1.position,GroundLayers) || Physics2D.OverlapPoint(groundCheck2.position,GroundLayers);
+        jumpHeld = Input.GetButton("Jump");
 
-        if (faceDirX != 0){ //if player is moving
-            if(currentSpdX == 0){ //if player starts movement from a halt
-                currentSpdX = minSpdX;
-            }else if(currentSpdX < maxSpdX){ //player is moving but less than their max walk speed-up
-                currentSpdX = increaseVelocity(currentSpdX,accelX,maxSpdX); //keep at max speed
-            }
-        }else if(currentSpdX > 0){
-            currentSpdX = decreaseVelocity(currentSpdX,decelX);
+        if (Input.GetButtonUp("Jump")){
+            jumpRelease =true;
         }
+        //Horizontal Movement
+        if(isGrounded){
+            if (faceDirX != 0){ //if player is moving
+                if(currentSpdX == 0){ //if player starts movement from a halt
+                    currentSpdX = minSpdX;
+                }else if(currentSpdX < maxSpdX){ //player is moving but less than their max walk speed-up
+                    currentSpdX = increaseVelocity(currentSpdX,accelX,maxSpdX); //keep at max speed
+                }
+            }else if(currentSpdX > 0){
+                currentSpdX = decreaseVelocity(currentSpdX,decelX);
+            }
+            
         
-    
-        isChangingDirection = currentSpdX > 0 && faceDirX * moveDirX < 0; //if player is moving in opposite direction
+            isChangingDirection = currentSpdX > 0 && faceDirX * moveDirX < 0; //if player is moving in opposite direction
 
-        if(isChangingDirection){
-            if(currentSpdX > skidTurnX){   
-                moveDirX = -faceDirX;
-                currentSpdX = decreaseVelocity(currentSpdX,skidDecelX,0);
-            }else{
-                moveDirX = faceDirX;
+            if(isChangingDirection){
+                if(currentSpdX > skidTurnX){   
+                    moveDirX = -faceDirX;
+                    currentSpdX = decreaseVelocity(currentSpdX,skidDecelX,0);
+                }else{
+                    moveDirX = faceDirX;
+                }
             }
         }
-
+        //Vertical Movement
+        if(isGrounded){
+            isJumping = false;
+            //rb.gravityScale =normalGravity;
+        }
+        if(!isJumping){
+            if(isGrounded && jumpHeld && jumpRelease){
+                setJumpParams();
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x,jumpSpdY);
+                isJumping = true;
+                jumpRelease = false;
+            }
+        }
         rb.linearVelocity = new Vector2(moveDirX*currentSpdX,rb.linearVelocity.y);
 
         if(faceDirX > 0){
@@ -82,13 +101,13 @@ public class PlayerControllerNew : MonoBehaviour
         }
     }
 
-    /*private void OnTriggerEnter2D(Collider2D collision){
+    private void OnTriggerEnter2D(Collider2D collision){
         if(collision.tag == "Collectible"){
             Destroy(collision.gameObject);
             Collectible += 1;
             CollectibleText.text = Collectible.ToString();
         }    
-    }*/
+    }
 
     float increaseVelocity(float val, float delta, float maxVal){
         val += delta; //speed increases

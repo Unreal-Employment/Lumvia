@@ -144,6 +144,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -534,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ghost-Sheet-Fall-Death_0: -4943495679191301645
+      Ghost-Sheet-Fall-Death_1: -5309087574982086914
+      Ghost-Sheet-Fall-Death_10: 6606249747596059284
+      Ghost-Sheet-Fall-Death_11: 3014468354249060295
+      Ghost-Sheet-Fall-Death_12: -1330284771516687128
+      Ghost-Sheet-Fall-Death_13: -1422342066847685311
+      Ghost-Sheet-Fall-Death_14: 849161659719916284
+      Ghost-Sheet-Fall-Death_15: 8135626194089532520
+      Ghost-Sheet-Fall-Death_16: -8808847834498560238
+      Ghost-Sheet-Fall-Death_2: -5467734613037695133
+      Ghost-Sheet-Fall-Death_3: -2709069362718628618
+      Ghost-Sheet-Fall-Death_4: 2230251329009499085
+      Ghost-Sheet-Fall-Death_5: 3810888840142356909
+      Ghost-Sheet-Fall-Death_6: 1184802161894167455
+      Ghost-Sheet-Fall-Death_7: -2513933896964423558
+      Ghost-Sheet-Fall-Death_8: -6457919843899264175
+      Ghost-Sheet-Fall-Death_9: -8784081129047283045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
