@@ -1,0 +1,1482 @@
+fileFormatVersion: 2
+guid: b8a31546135743249819e6ada1edaa4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -126964479680067839
+    second: Willowisp-Sheet_0
+  - first:
+      213: 188297154698136823
+    second: Willowisp-Sheet_1
+  - first:
+      213: 1420655323394639540
+    second: Willowisp-Sheet_2
+  - first:
+      213: -8334574088472146121
+    second: Willowisp-Sheet_3
+  - first:
+      213: -5395642218612208387
+    second: Willowisp-Sheet_4
+  - first:
+      213: -7388406247218557851
+    second: Willowisp-Sheet_5
+  - first:
+      213: 6570995482181529420
+    second: Willowisp-Sheet_6
+  - first:
+      213: 4606352962541549171
+    second: Willowisp-Sheet_7
+  - first:
+      213: -1739617969966297657
+    second: Willowisp-Sheet_8
+  - first:
+      213: 1634875685314263479
+    second: Willowisp-Sheet_9
+  - first:
+      213: 2978844861776832760
+    second: Willowisp-Sheet_10
+  - first:
+      213: -8894423923780824413
+    second: Willowisp-Sheet_11
+  - first:
+      213: -6929941466240911166
+    second: Willowisp-Sheet_12
+  - first:
+      213: 8803194949895036167
+    second: Willowisp-Sheet_13
+  - first:
+      213: -5057033564216830432
+    second: Willowisp-Sheet_14
+  - first:
+      213: -7395375718499155800
+    second: Willowisp-Sheet_15
+  - first:
+      213: -8883579996041231643
+    second: Willowisp-Sheet_16
+  - first:
+      213: -4659112059985805686
+    second: Willowisp-Sheet_17
+  - first:
+      213: 2980340844214283415
+    second: Willowisp-Sheet_18
+  - first:
+      213: 6812559863457771668
+    second: Willowisp-Sheet_19
+  - first:
+      213: -3904309925039465722
+    second: Willowisp-Sheet_20
+  - first:
+      213: -2211407016689905647
+    second: Willowisp-Sheet_21
+  - first:
+      213: 2251912687745795869
+    second: Willowisp-Sheet_22
+  - first:
+      213: -4931497884003621335
+    second: Willowisp-Sheet_23
+  - first:
+      213: -6912668414107153775
+    second: Willowisp-Sheet_24
+  - first:
+      213: -7893688169899387665
+    second: Willowisp-Sheet_25
+  - first:
+      213: 2242594607338438638
+    second: Willowisp-Sheet_26
+  - first:
+      213: 6237420864902602967
+    second: Willowisp-Sheet_27
+  - first:
+      213: -733451620246058060
+    second: Willowisp-Sheet_28
+  - first:
+      213: -5895425187794243449
+    second: Willowisp-Sheet_29
+  - first:
+      213: -517033625284235622
+    second: Willowisp-Sheet_30
+  - first:
+      213: -2128813071269703263
+    second: Willowisp-Sheet_31
+  - first:
+      213: -2442812466134113489
+    second: Willowisp-Sheet_32
+  - first:
+      213: -4299821536301272560
+    second: Willowisp-Sheet_33
+  - first:
+      213: -3192835518873924702
+    second: Willowisp-Sheet_34
+  - first:
+      213: -8145461549992248840
+    second: Willowisp-Sheet_35
+  - first:
+      213: -693293115822341623
+    second: Willowisp-Sheet_36
+  - first:
+      213: -3597201480614471730
+    second: Willowisp-Sheet_37
+  - first:
+      213: 1247757069640861432
+    second: Willowisp-Sheet_38
+  - first:
+      213: 427707069327694746
+    second: Willowisp-Sheet_39
+  - first:
+      213: -8584214364785256283
+    second: Willowisp-Sheet_40
+  - first:
+      213: 8500494116291793013
+    second: Willowisp-Sheet_41
+  - first:
+      213: 5094190084473482952
+    second: Willowisp-Sheet_42
+  - first:
+      213: -2498049100264482796
+    second: Willowisp-Sheet_43
+  - first:
+      213: 4085118646809928231
+    second: Willowisp-Sheet_44
+  - first:
+      213: -75704908747360899
+    second: Willowisp-Sheet_45
+  - first:
+      213: -4530182436901479810
+    second: Willowisp-Sheet_46
+  - first:
+      213: 2047816060919262459
+    second: Willowisp-Sheet_47
+  - first:
+      213: 4287604803191962251
+    second: Willowisp-Sheet_48
+  - first:
+      213: 4426207900243341878
+    second: Willowisp-Sheet_49
+  - first:
+      213: -402890753651100689
+    second: Willowisp-Sheet_50
+  - first:
+      213: 8640481040567516964
+    second: Willowisp-Sheet_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Willowisp-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107c3997a7eec3ef0800000000000000
+      internalID: -126964479680067839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fccff9b347fc9200800000000000000
+      internalID: 188297154698136823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 59
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6843b5d7e27b310800000000000000
+      internalID: 1420655323394639540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 49
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f41766605a55c80800000000000000
+      internalID: -8334574088472146121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcc4805df3de15b0800000000000000
+      internalID: -5395642218612208387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 39
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cc242e9ab177990800000000000000
+      internalID: -7388406247218557851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 59
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f6020939dd03b50800000000000000
+      internalID: 6570995482181529420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 49
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3767b5a2d9d0def30800000000000000
+      internalID: 4606352962541549171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdc5475ca2abd7e0800000000000000
+      internalID: -1739617969966297657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 49
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9741b16ce30b610800000000000000
+      internalID: 1634875685314263479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 59
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8a4338e9bf65920800000000000000
+      internalID: 2978844861776832760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 49
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2de45e098a09480800000000000000
+      internalID: -8894423923780824413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8f57ee3f6e3df90800000000000000
+      internalID: -6929941466240911166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d91056a2b3b2a70800000000000000
+      internalID: 8803194949895036167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d0a344cec1d9b0800000000000000
+      internalID: -5057033564216830432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a00f4667f85e5990800000000000000
+      internalID: -7395375718499155800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e242329f0f27b480800000000000000
+      internalID: -8883579996041231643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ebec73442875fb0800000000000000
+      internalID: -4659112059985805686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ceaf0153c4c5920800000000000000
+      internalID: 2980340844214283415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490fb70f9131b8e50800000000000000
+      internalID: 6812559863457771668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b9df02fca11d9c0800000000000000
+      internalID: -3904309925039465722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110546ce8018f41e0800000000000000
+      internalID: -2211407016689905647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17884a88a6604f10800000000000000
+      internalID: 2251912687745795869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926af5d7dcccf8bb0800000000000000
+      internalID: -4931497884003621335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a8417c3b44110a0800000000000000
+      internalID: -6912668414107153775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe491799e6cf37290800000000000000
+      internalID: -7893688169899387665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef3d91e9eb4f1f10800000000000000
+      internalID: 2242594607338438638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02127ba35cf8650800000000000000
+      internalID: 6237420864902602967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 29
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8c4b23a142d5f0800000000000000
+      internalID: -733451620246058060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78032a9e60e3f2ea0800000000000000
+      internalID: -5895425187794243449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e200c38a023d8f0800000000000000
+      internalID: -517033625284235622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d2c56acfe472e0800000000000000
+      internalID: -2128813071269703263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f232e2f2103691ed0800000000000000
+      internalID: -2442812466134113489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012303b1817f354c0800000000000000
+      internalID: -4299821536301272560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab054f0305c0b3d0800000000000000
+      internalID: -3192835518873924702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9fb1570e185fe80800000000000000
+      internalID: -8145461549992248840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028f2a959de066f0800000000000000
+      internalID: -693293115822341623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7177aef4c241ec0800000000000000
+      internalID: -3597201480614471730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f60de5a17ce05110800000000000000
+      internalID: 1247757069640861432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b533f30558fe500800000000000000
+      internalID: 427707069327694746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a85b2f248ebed880800000000000000
+      internalID: -8584214364785256283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570ded87c52d7f570800000000000000
+      internalID: 8500494116291793013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ceeb5344e232b640800000000000000
+      internalID: 5094190084473482952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418504b1495255dd0800000000000000
+      internalID: -2498049100264482796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7222e60f3c141b830800000000000000
+      internalID: 4085118646809928231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753c5e59ca03fef0800000000000000
+      internalID: -75704908747360899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a16c8531f8121c0800000000000000
+      internalID: -4530182436901479810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcae6c8bdd4b6c10800000000000000
+      internalID: 2047816060919262459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8af38f0ad1a08b30800000000000000
+      internalID: 4287604803191962251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632380c52ac0d6d30800000000000000
+      internalID: 4426207900243341878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe336518ef4a86af0800000000000000
+      internalID: -402890753651100689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Willowisp-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f36872ab729e770800000000000000
+      internalID: 8640481040567516964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Willowisp-Sheet_0: -126964479680067839
+      Willowisp-Sheet_1: 188297154698136823
+      Willowisp-Sheet_10: 2978844861776832760
+      Willowisp-Sheet_11: -8894423923780824413
+      Willowisp-Sheet_12: -6929941466240911166
+      Willowisp-Sheet_13: 8803194949895036167
+      Willowisp-Sheet_14: -5057033564216830432
+      Willowisp-Sheet_15: -7395375718499155800
+      Willowisp-Sheet_16: -8883579996041231643
+      Willowisp-Sheet_17: -4659112059985805686
+      Willowisp-Sheet_18: 2980340844214283415
+      Willowisp-Sheet_19: 6812559863457771668
+      Willowisp-Sheet_2: 1420655323394639540
+      Willowisp-Sheet_20: -3904309925039465722
+      Willowisp-Sheet_21: -2211407016689905647
+      Willowisp-Sheet_22: 2251912687745795869
+      Willowisp-Sheet_23: -4931497884003621335
+      Willowisp-Sheet_24: -6912668414107153775
+      Willowisp-Sheet_25: -7893688169899387665
+      Willowisp-Sheet_26: 2242594607338438638
+      Willowisp-Sheet_27: 6237420864902602967
+      Willowisp-Sheet_28: -733451620246058060
+      Willowisp-Sheet_29: -5895425187794243449
+      Willowisp-Sheet_3: -8334574088472146121
+      Willowisp-Sheet_30: -517033625284235622
+      Willowisp-Sheet_31: -2128813071269703263
+      Willowisp-Sheet_32: -2442812466134113489
+      Willowisp-Sheet_33: -4299821536301272560
+      Willowisp-Sheet_34: -3192835518873924702
+      Willowisp-Sheet_35: -8145461549992248840
+      Willowisp-Sheet_36: -693293115822341623
+      Willowisp-Sheet_37: -3597201480614471730
+      Willowisp-Sheet_38: 1247757069640861432
+      Willowisp-Sheet_39: 427707069327694746
+      Willowisp-Sheet_4: -5395642218612208387
+      Willowisp-Sheet_40: -8584214364785256283
+      Willowisp-Sheet_41: 8500494116291793013
+      Willowisp-Sheet_42: 5094190084473482952
+      Willowisp-Sheet_43: -2498049100264482796
+      Willowisp-Sheet_44: 4085118646809928231
+      Willowisp-Sheet_45: -75704908747360899
+      Willowisp-Sheet_46: -4530182436901479810
+      Willowisp-Sheet_47: 2047816060919262459
+      Willowisp-Sheet_48: 4287604803191962251
+      Willowisp-Sheet_49: 4426207900243341878
+      Willowisp-Sheet_5: -7388406247218557851
+      Willowisp-Sheet_50: -402890753651100689
+      Willowisp-Sheet_51: 8640481040567516964
+      Willowisp-Sheet_6: 6570995482181529420
+      Willowisp-Sheet_7: 4606352962541549171
+      Willowisp-Sheet_8: -1739617969966297657
+      Willowisp-Sheet_9: 1634875685314263479
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
