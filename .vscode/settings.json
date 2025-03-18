@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Lumvia.sln"
+    "dotnet.defaultSolution": "Lumvia2.sln"
 }
