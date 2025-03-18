@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 618f1c23b485828419c3a46d8b6b7a5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6410699995781468687
+    second: collect-Sheet_0
+  - first:
+      213: -3521515040795628310
+    second: collect-Sheet_1
+  - first:
+      213: -7766660581677404702
+    second: collect-Sheet_2
+  - first:
+      213: 3831746890526367632
+    second: collect-Sheet_3
+  - first:
+      213: -6538604015980824783
+    second: collect-Sheet_4
+  - first:
+      213: -3900330096912564977
+    second: collect-Sheet_5
+  - first:
+      213: 4365066492216900155
+    second: collect-Sheet_6
+  - first:
+      213: -4923152328338648399
+    second: collect-Sheet_7
+  - first:
+      213: -1249756059126227209
+    second: collect-Sheet_8
+  - first:
+      213: -1330667369667532462
+    second: collect-Sheet_9
+  - first:
+      213: -7033108148772138530
+    second: collect-Sheet_10
+  - first:
+      213: -9084142878120711041
+    second: collect-Sheet_11
+  - first:
+      213: -6979466445209682878
+    second: collect-Sheet_12
+  - first:
+      213: 2465086434105629461
+    second: collect-Sheet_13
+  - first:
+      213: 8481478912897266429
+    second: collect-Sheet_14
+  - first:
+      213: 8572021746246474452
+    second: collect-Sheet_15
+  - first:
+      213: 1719691805208840822
+    second: collect-Sheet_16
+  - first:
+      213: 7208326373612712251
+    second: collect-Sheet_17
+  - first:
+      213: 2580128178186217742
+    second: collect-Sheet_18
+  - first:
+      213: 7042575009401715554
+    second: collect-Sheet_19
+  - first:
+      213: 4937893443584350308
+    second: collect-Sheet_20
+  - first:
+      213: -911952978676573932
+    second: collect-Sheet_21
+  - first:
+      213: 7211290415835245921
+    second: collect-Sheet_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: collect-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fde8d5b15e9807a0800000000000000
+      internalID: -6410699995781468687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec6e2a6ab0112fc0800000000000000
+      internalID: -3521515040795628310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 139
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede61ab957473490800000000000000
+      internalID: -7766660581677404702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 129
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f1807de791d2530800000000000000
+      internalID: 3831746890526367632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 39
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137358c5a463245a0800000000000000
+      internalID: -6538604015980824783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 109
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0df2c2117e3fd9c0800000000000000
+      internalID: -3900330096912564977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 119
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7c89f8d4d39c30800000000000000
+      internalID: 4365066492216900155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 109
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2dc369a037dabb0800000000000000
+      internalID: -4923152328338648399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 59
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe93e75c79f7aee0800000000000000
+      internalID: -1249756059126227209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25963c4d315888de0800000000000000
+      internalID: -1330667369667532462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 59
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed11885d661656e90800000000000000
+      internalID: -7033108148772138530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 59
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c68b4ae24aee180800000000000000
+      internalID: -9084142878120711041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 89
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb4833f34f32f90800000000000000
+      internalID: -6979466445209682878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 79
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b108d1d0fb53220800000000000000
+      internalID: 2465086434105629461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2353d622444b570800000000000000
+      internalID: 8481478912897266429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad1f79c50f5f670800000000000000
+      internalID: 8572021746246474452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a8f94e5929dd710800000000000000
+      internalID: 1719691805208840822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 29
+        width: 42
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31f34c35ae190460800000000000000
+      internalID: 7208326373612712251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 39
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09e3cf68e47ec320800000000000000
+      internalID: 2580128178186217742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bbe6b68a04cb160800000000000000
+      internalID: 7042575009401715554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4685393ccebe68440800000000000000
+      internalID: 4937893443584350308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 9
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4199f1ef8971853f0800000000000000
+      internalID: -911952978676573932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: collect-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 19
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16de9081d66a31460800000000000000
+      internalID: 7211290415835245921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      collect-Sheet_0: -6410699995781468687
+      collect-Sheet_1: -3521515040795628310
+      collect-Sheet_10: -7033108148772138530
+      collect-Sheet_11: -9084142878120711041
+      collect-Sheet_12: -6979466445209682878
+      collect-Sheet_13: 2465086434105629461
+      collect-Sheet_14: 8481478912897266429
+      collect-Sheet_15: 8572021746246474452
+      collect-Sheet_16: 1719691805208840822
+      collect-Sheet_17: 7208326373612712251
+      collect-Sheet_18: 2580128178186217742
+      collect-Sheet_19: 7042575009401715554
+      collect-Sheet_2: -7766660581677404702
+      collect-Sheet_20: 4937893443584350308
+      collect-Sheet_21: -911952978676573932
+      collect-Sheet_22: 7211290415835245921
+      collect-Sheet_3: 3831746890526367632
+      collect-Sheet_4: -6538604015980824783
+      collect-Sheet_5: -3900330096912564977
+      collect-Sheet_6: 4365066492216900155
+      collect-Sheet_7: -4923152328338648399
+      collect-Sheet_8: -1249756059126227209
+      collect-Sheet_9: -1330667369667532462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
