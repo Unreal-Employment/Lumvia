@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 9f85e9a3c0c8ffd49876c6343f94cc69
+guid: 97ad4a096731f9d46ac216de88e95a16
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7706998895581602772
-    second: HilfeBridge_0
+      213: 5125306693954197840
+    second: HilfeBridge-export_0
+  - first:
+      213: -7279958811035309242
+    second: HilfeBridge-export_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,24 +99,11 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: HilfeBridge_0
+      name: HilfeBridge-export_0
       rect:
         serializedVersion: 2
         x: 0
@@ -126,16 +116,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 4d3287f79a2c4fa60800000000000000
-      internalID: 7706998895581602772
+      spriteID: 1537b93b4701a2e44867d5c4538af656
+      internalID: 950229800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_1
+      name: HilfeBridge-export_1
       rect:
         serializedVersion: 2
         x: 160
@@ -150,14 +140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1b5634dbd939a114999ba8473422959a
-      internalID: -936837530
+      spriteID: cfa3b53ddc0441a4383b0bb09de59c34
+      internalID: -1114035857
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_2
+      name: HilfeBridge-export_2
       rect:
         serializedVersion: 2
         x: 320
@@ -172,14 +162,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eeb4218c6216c5c48809e0260fd328bb
-      internalID: -353040792
+      spriteID: 81e8b447d5213d54795211de3dcd4f9b
+      internalID: -1622774931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_3
+      name: HilfeBridge-export_3
       rect:
         serializedVersion: 2
         x: 0
@@ -194,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c07d068eee728864eb668ab939a7ed93
-      internalID: -1050149513
+      spriteID: aafbc158f039ce74d8c7e42ba4c88bf0
+      internalID: -726408002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_4
+      name: HilfeBridge-export_4
       rect:
         serializedVersion: 2
         x: 160
@@ -216,36 +206,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e855299c157ab5c4b8e9df3a45f6c3fe
-      internalID: -1928850908
+      spriteID: 956b1bbf589360b40a96343fc204745b
+      internalID: -344173684
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 160
-        width: 160
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9e7480e28d91f4844af811ae6c9d06b7
-      internalID: -1056007697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HilfeBridge_6
+      name: HilfeBridge-export_5
       rect:
         serializedVersion: 2
         x: 0
@@ -260,14 +228,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ec73f6453bfcb0444bd937c00484af61
-      internalID: -404030095
+      spriteID: 5b97f3d39554d514bba0ad659277df2e
+      internalID: -1838885762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: HilfeBridge_7
+      name: HilfeBridge-export_6
       rect:
         serializedVersion: 2
         x: 160
@@ -282,30 +250,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95c39dcd1bee5224d956a9109aa82222
-      internalID: -319985076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: HilfeBridge_8
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 0
-        width: 160
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1073b8784225394f9d2f0fa58d7d053
-      internalID: 511628031
+      spriteID: 3024ee365384d6a4d9c8cf1be981197b
+      internalID: 1706525589
       vertices: []
       indices: 
       edges: []
@@ -314,7 +260,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a1acafcc22811ed48ae024a0e89f8dc5
+    spriteID: 1da7ceea10b68904ea2304343ede7702
     internalID: 0
     vertices: []
     indices: 
@@ -324,15 +270,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      HilfeBridge_0: 7706998895581602772
-      HilfeBridge_1: -936837530
-      HilfeBridge_2: -353040792
-      HilfeBridge_3: -1050149513
-      HilfeBridge_4: -1928850908
-      HilfeBridge_5: -1056007697
-      HilfeBridge_6: -404030095
-      HilfeBridge_7: -319985076
-      HilfeBridge_8: 511628031
+      HilfeBridge-export_0: 950229800
+      HilfeBridge-export_1: -1114035857
+      HilfeBridge-export_2: -1622774931
+      HilfeBridge-export_3: -726408002
+      HilfeBridge-export_4: -344173684
+      HilfeBridge-export_5: -1838885762
+      HilfeBridge-export_6: 1706525589
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
