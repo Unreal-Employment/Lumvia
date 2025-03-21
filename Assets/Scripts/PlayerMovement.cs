@@ -16,7 +16,7 @@ public class playerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 7f;
     [SerializeField] private float jumpForce = 14f;
 
-    private enum MovementState { idle, run, jump, fall }  //own datatype that manages all different animation states bc we cannot have 2 animations at the same time
+    private enum MovementState { idle, run, jump, fall, land }  //own datatype that manages all different animation states bc we cannot have 2 animations at the same time
                                                           // idle = 0, run=1, jump=2, fall=3
 
     // Start is called before the first frame update
@@ -67,13 +67,18 @@ public class playerMovement : MonoBehaviour
 
         //jumping or falling has a higher priority than the other animations cause u can jump while moving in a direction thats why this if clause comes 2nd
 
+        
         if ( rb.linearVelocity.y > .1f) //as long as the y velocity is greater than .1 we know that we are jumping
         {
             State = MovementState.jump;
         }
-        else if( rb.linearVelocity.y < -.1f) //downward force
+        if( rb.linearVelocity.y < -.1f) //downward force
         {
             State = MovementState.fall;
+        }
+        if (State == MovementState.fall && IsGrounded())
+        {
+            State = MovementState.land;
         }
 
         anim.SetInteger("State", (int) State); //(int) turns enum into an int)
